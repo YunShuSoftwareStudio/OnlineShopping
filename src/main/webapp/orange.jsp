@@ -41,7 +41,7 @@
     <div class="cont-top">
         <div class="cont-left">
             <div class="ctl-img">
-                <img src="${basePath}images/${fruit.address}">
+                <img src="${basePath}upload/${fruit.address}">
             </div>
         </div>
         <div class="cont-right">

@@ -102,7 +102,7 @@
                         <c:forEach items="${fruitList}" var="fruit">
                             <div class="rcr">
                                 <div class="rcr-top">
-                                    <img src="${basePath}images/${fruit.address}" width="100%">
+                                    <img src="${basePath}upload/${fruit.address}" width="100%">
                                 </div>
                                 <div class="rcr-bot">
                                     <div class="rb-top">
